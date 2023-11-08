@@ -11,3 +11,5 @@ This course teaches how to use SQL to store, query, and manipulate data over 4 l
 - More Advanced SQL Queries
 - Relational Queries in SQL
 - Modifying Databases with SQL
+
+You can find all three of my project/"Spin-offs" at [this link](https://www.khanacademy.org/profile/kaid_6302462417121443261130989/projects).
