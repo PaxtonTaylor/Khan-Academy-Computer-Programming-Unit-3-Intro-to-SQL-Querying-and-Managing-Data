@@ -5,6 +5,16 @@ You can view this "Spin-off" at the following link
 https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database-ar-drum-shop/5680654364491776
 */
 
+/*
+I used the following commands and queries:
+- SELECT
+- WHERE
+- ORDER BY
+- LIMIT
+- Operators =, >, < >=
+- AND
+*/
+
 
 /*
 -Create drum store
