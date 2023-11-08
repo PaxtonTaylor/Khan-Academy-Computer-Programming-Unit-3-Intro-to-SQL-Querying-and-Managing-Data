@@ -4,6 +4,11 @@ Collected by: https://www.khanacademy.org/profile/charlesb2000/
 */
 
 /*
+You can veiw this project/Spin-off at the following link:
+https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5411761293148160
+*/
+
+/*
 I used this already provided data table to practice:
 - Aggregate functions like AVG(), MAX(), MIN()
 - GROUP BY
