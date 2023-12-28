@@ -8,13 +8,13 @@ You can veiw this project/Spin-off at the following link:
 https://www.khanacademy.org/computer-programming/spin-off-of-project-data-dig/5411761293148160
 */
 
-/*
+
 I used this already provided data table to practice:
 - Aggregate functions like AVG(), MAX(), MIN()
 - GROUP BY
 - HAVING
 - alias
-*/
+
 
 CREATE TABLE sales(
   ID INTEGER  NOT NULL PRIMARY KEY
